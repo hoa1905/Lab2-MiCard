@@ -1,2 +1,2 @@
 # Lab2-MiCard
-# Phat trien ung dung di dong da nen tang
+# Phat trien ung dung di dong da nen tang (5)
